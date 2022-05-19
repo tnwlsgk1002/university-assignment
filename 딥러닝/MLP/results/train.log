@@ -1,0 +1,56 @@
+=============== Final Test Accuracy ===============
+val acc:0.4903
+==== weight saved ====
+=== epoch:1, train acc:0.132725, val acc:0.1379 ===
+=== epoch:2, train acc:0.39455, val acc:0.3848 ===
+=== epoch:3, train acc:0.41165, val acc:0.404 ===
+=== epoch:4, train acc:0.439375, val acc:0.4187 ===
+=== epoch:5, train acc:0.46465, val acc:0.4407 ===
+=== epoch:6, train acc:0.466575, val acc:0.4392 ===
+=== epoch:7, train acc:0.477175, val acc:0.4502 ===
+=== epoch:8, train acc:0.4643, val acc:0.44 ===
+=== epoch:9, train acc:0.4939, val acc:0.4612 ===
+=== epoch:10, train acc:0.5073, val acc:0.4694 ===
+=== epoch:11, train acc:0.495425, val acc:0.4577 ===
+=== epoch:12, train acc:0.51185, val acc:0.4714 ===
+=== epoch:13, train acc:0.504625, val acc:0.4735 ===
+=== epoch:14, train acc:0.5245, val acc:0.4767 ===
+=== epoch:15, train acc:0.52035, val acc:0.4774 ===
+=== epoch:16, train acc:0.49445, val acc:0.4551 ===
+=== epoch:17, train acc:0.529675, val acc:0.4784 ===
+=== epoch:18, train acc:0.541375, val acc:0.4855 ===
+=== epoch:19, train acc:0.53125, val acc:0.4755 ===
+=== epoch:20, train acc:0.54035, val acc:0.4902 ===
+=== epoch:21, train acc:0.537, val acc:0.486 ===
+=== epoch:22, train acc:0.537975, val acc:0.4857 ===
+=== epoch:23, train acc:0.5488, val acc:0.4909 ===
+=== epoch:24, train acc:0.547375, val acc:0.4871 ===
+=== epoch:25, train acc:0.547025, val acc:0.4887 ===
+=== epoch:26, train acc:0.548, val acc:0.4921 ===
+=== epoch:27, train acc:0.52895, val acc:0.4662 ===
+=== epoch:28, train acc:0.542375, val acc:0.4768 ===
+=== epoch:29, train acc:0.548025, val acc:0.4857 ===
+=== epoch:30, train acc:0.555325, val acc:0.4901 ===
+=== epoch:31, train acc:0.562475, val acc:0.4935 ===
+=== epoch:32, train acc:0.5585, val acc:0.4913 ===
+=== epoch:33, train acc:0.547325, val acc:0.4837 ===
+=== epoch:34, train acc:0.565525, val acc:0.498 ===
+=== epoch:35, train acc:0.566325, val acc:0.4894 ===
+=== epoch:36, train acc:0.556675, val acc:0.4841 ===
+=== epoch:37, train acc:0.5721, val acc:0.4925 ===
+=== epoch:38, train acc:0.56665, val acc:0.4963 ===
+=== epoch:39, train acc:0.576325, val acc:0.5009 ===
+=== epoch:40, train acc:0.576375, val acc:0.4952 ===
+=== epoch:41, train acc:0.579975, val acc:0.4996 ===
+=== epoch:42, train acc:0.5759, val acc:0.5019 ===
+=== epoch:43, train acc:0.57875, val acc:0.4957 ===
+=== epoch:44, train acc:0.571375, val acc:0.4946 ===
+=== epoch:45, train acc:0.5793, val acc:0.5006 ===
+=== epoch:46, train acc:0.579675, val acc:0.4959 ===
+=== epoch:47, train acc:0.588725, val acc:0.5021 ===
+=== epoch:48, train acc:0.572325, val acc:0.4856 ===
+=== epoch:49, train acc:0.58885, val acc:0.5017 ===
+=== epoch:50, train acc:0.59745, val acc:0.5062 ===
+=============== Final Test Accuracy ===============
+val acc:0.4906
+==== weight saved ====

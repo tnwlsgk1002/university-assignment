@@ -1,0 +1,27 @@
+epochs: 50
+learning_rate: 0.001
+weight_decay: 10e-6
+
+network :
+  input_size : 3072
+  hidden_list : [100, 100]
+  output_size : 10
+  weight_init_std : 0.01
+  use_batchnorm : True
+  use_dropout : True
+  weight_decay : 0.00001
+
+train:
+  validation_rate : 0.2
+  epochs : 50
+  batch_size : 100
+  optimizer : 'adam'
+  learning_rate : 0.001
+  verbose : True
+  log_file : 'results/train.log'
+
+test :
+  log_file : 'results/test.log'
+
+weight :
+  file : 'weights/temp.npy'

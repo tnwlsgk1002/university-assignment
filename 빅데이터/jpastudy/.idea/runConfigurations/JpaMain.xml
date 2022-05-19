@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JpaMain" type="Application" factoryName="Application" nameIsGenerated="true">
+    <log_file alias="test" path="test" />
+    <option name="MAIN_CLASS_NAME" value="jpabook.start.JpaMain" />
+    <module name="jpastudy" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="jpabook.start.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
